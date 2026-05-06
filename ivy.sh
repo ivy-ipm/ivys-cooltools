@@ -8,7 +8,7 @@ OPENXR="$BASE/pkgs/openxr"
 mkdir -p "$BASE/pkgs"
 touch "$PKG"
 
-echo "IVY ENGINE v1 ($USER)"
+echo "ivys cooltools v1 ($USER)"
 
 cmd="$1"
 
