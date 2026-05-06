@@ -6,5 +6,5 @@ cp ivy.sh $PREFIX/bin/ivy
 mkdir -p $HOME/.ivy
 touch $HOME/.ivy/pkgs.txt
 
-echo "IVY ENGINE INSTALLED"
+echo "ivy cooltools installed"
 echo "run ivy h"
